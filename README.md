@@ -4,7 +4,7 @@ challenge 3
 ## description 
 auto generated password using html css and javascript
 ## link to deployed app
-http://127.0.0.1:5500/Develop/index.html
+https://dutsler1.github.io/adapative-password/
 
 ## link to git hub repo
 https://github.com/dutsler1/adapative-password
